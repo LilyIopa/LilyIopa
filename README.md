@@ -1,6 +1,4 @@
-<h1 align="center" color=#355E3B>Привет,
-
-меня зовут Лиля :star2:
+<h1 align="center" color=#355E3B>Привет, я Лиля :star2:
 </h1>
 
 ___
@@ -35,6 +33,17 @@ ___
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/YouTube_Logo_%282013-2017%29.svg" title="YouTube" alt="YouTube" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/linux/linux-original.svg" title="linux" alt="linux" width="40" height="40"/>&nbsp; 
 </div>
+
+___
+<h3 align="left"> :globe_with_meridians: Изученный материал:</h3>
+
+| Материалы                                                       | Дата              |
+| ----------------------------------------------------------------| :---------------: |
+| netology.ru/Старт в программировании                            | 07/2022 - 08/2022 |
+| metanit.com/C#/Общее                                            | 09/2022 - 11/2022 |
+| stepik.org/Основы программирования на C. Задачи.                | 02/2022 - 03/2022 |
+| netology.ru/Тестировщик: быстрый старт в IT                     | 09/2023 - 10/2023 |
+
 
 ___
 <!-- <h3 align="left">Codewars:</h3>
