@@ -40,9 +40,11 @@ ___
   <tr><td>Материалы</td><td>Дата</td></tr>
   <tr><td>netology.ru/Старт в программировании</td><td>07/2022 - 08/2022</td></tr>
   <tr><td>metanit.com/C#/Общее</td><td>09/2022 - 11/2022</td></tr>
+  <tr><td>stepik.org/C# NoobCoder's</td><td>10/2022 - 12/2022</td></tr>
   <tr><td>stepik.org/Основы программирования на C. Задачи.</td><td>11/2022 - 12/2022</td></tr>
   <tr><td>netology.ru/Основы верстки сайта: HTML и CSS</td><td>01/2023 - 03/2022</td></tr>
   <tr><td>netology.ru/Тестировщик: быстрый старт в IT</td><td>09/2023 - 10/2023</td></tr>
+  <tr><td>stepik.org/Программирование на Golang</td><td>10/2022 - 12/2022</td></tr>
 </table>
 
 <!-- <h3 align="left">Codewars:</h3>
