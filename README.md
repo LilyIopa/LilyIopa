@@ -45,6 +45,8 @@ ___
   <tr><td>netology.ru/Основы верстки сайта: HTML и CSS</td><td>01/2023 - 03/2022</td></tr>
   <tr><td>netology.ru/Тестировщик: быстрый старт в IT</td><td>09/2023 - 10/2023</td></tr>
   <tr><td>stepik.org/Программирование на Golang</td><td>10/2023 - 12/2023</td></tr>
+  <tr><td>@zifra_rtk/Цифровое образование Ростелеком</td><td>10/2023 - 11/2023</td></tr>
+  <tr><td>studen.action.group/Актион студенты</td><td>12/2023 - 01/2024</td></tr>
   </table>
   <table align="left">
   <tr><td>Литература</td><td>Дата</td></tr>
