@@ -1,4 +1,4 @@
-<h1 align="center" color=#355E3B>Привет, я Лиля :star2:
+<!-- <h1 align="center" color=#355E3B>Привет, я Лиля :star2:
 </h1>
 
 ___
@@ -56,7 +56,7 @@ ___
   <tr><td>Е.Ю. Хрусталева/Язык запросов 1с</td><td>10/2023 - 12/2024</td></tr>
 </table>
 
-<!-- <h3 align="left">Codewars:</h3>
+ <h3 align="left">Codewars:</h3>
 ![codewars](https://www.codewars.com/users/LilyIopa/badges/large)
 ___
 <h3 align="left">GitHub статистика:</h3>
